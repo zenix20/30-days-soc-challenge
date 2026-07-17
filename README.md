@@ -18,6 +18,6 @@ Each day includes the scenario, the tools/log sources involved, my approach and 
 | [Day 1](./day-01.md) | Introduction to SOC 
 | [Day 2](./day-02.md) | Security Monitoring 
 | [Day 3](./day-03.md) | Cyber Threat Landscape 
-| [Day 4](./day-04.md) | SSH Brute-Force Investigation (Wazuh)
+| [Day 4](./day-04.md) | SOC L1 Triage (Wazuh)
 | Day 5–30 | *In progress* | 🔄 |
 
