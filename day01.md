@@ -36,7 +36,3 @@ index=*
 Ran a broad search across everything, then clicked into the "host" field in the left-hand field sidebar to see all distinct host values without needing to guess the sourcetype name first.
 
 **Answer:** zeek_IDS_02
-
-## Takeaway
-
-When you don't know a dataset's schema yet, don't guess field values, search broadly (`index=*`) and let Splunk's field sidebar show you what actually exists. It's faster than trial-and-error searching and gives you the full picture of what's available before you commit to a specific query.
