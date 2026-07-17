@@ -1,4 +1,4 @@
-# 30-Days SOC Challenge — Write-ups
+# 30-Days SOC Challenge: Write-ups
 
 Daily write-ups from the **[HaxCamp](https://haxcamp.com) 30-Days SOC Challenge**, a hands-on program covering the core skills of a modern SOC Analyst through 30 practical labs spanning detection, investigation, threat hunting, DFIR, automation, and AI.
 
