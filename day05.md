@@ -1,4 +1,4 @@
-# Day 5: AI-Powered SOC — Workflow Investigation & Incident Response
+# Day 5: AI-Powered SOC: Workflow Investigation & Incident Response
 
 ![Day 5 screenshot placeholder](./images/day-05-placeholder.png)
 
