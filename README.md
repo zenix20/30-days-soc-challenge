@@ -21,4 +21,5 @@ Each day includes the scenario, the tools/log sources involved, my approach and 
 | [Day 4](./day04.md) | SOC L1 Triage (Wazuh)
 | [Day 5](./day05.md) | AI-Powered SOC (n8n Workflow Automation)
 | [Day 6](./day06.md) | Introduction to Splunk and SIEM
+| [Day 7](./day07.md) | Splunk SPL Queries
 
