@@ -4,7 +4,7 @@ Daily write-ups from the **[HaxCamp](https://haxcamp.com) 30-Days SOC Challenge*
 
 > Build real-world SOC skills in just 30 days: security monitoring, SIEM with Splunk, phishing analysis, threat intelligence, digital forensics, incident response, threat hunting, and AI-powered SOC automation through practical labs and realistic scenarios.
 
-Each day includes the scenario, the tools/log sources involved, my approach and queries, the answer, and a short takeaway. This repo is a running log as I work through the 30 days, updated daily.
+Each day includes the scenario, the tools/log sources involved, my approach and queries, and the answers. This repo is a running log as I work through the 30 days, updated daily.
 
 ## Tools & Platforms Used
 - **Splunk** (SPL, cross-sourcetype correlation, Windows Security logs, PowerShell script block logging, SMB/file server audit logs)
