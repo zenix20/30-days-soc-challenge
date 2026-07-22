@@ -22,4 +22,6 @@ Each day includes the scenario, the tools/log sources involved, my approach and 
 | [Day 5](./day05.md) | AI-Powered SOC (n8n Workflow Automation)
 | [Day 6](./day06.md) | Introduction to Splunk and SIEM
 | [Day 7](./day07.md) | Splunk SPL Queries
+| [Day 8](./day08.md) | Building SIEM dashboard
+| [Day 9](./day09.md) | Wazuh SIEM Masterclass
 
