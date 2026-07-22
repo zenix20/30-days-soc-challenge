@@ -1,7 +1,7 @@
 # Day 8: Building SIEM Dashboards
 
 **Topic:** Security Monitoring: dashboard visualization types for common SOC use cases
-**Tools:** Splunk (dashboard reference concepts — no live lab for this module)
+**Tools:** Splunk (dashboard reference concepts, no live lab for this module)
 
 ## Scenario
 
