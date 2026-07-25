@@ -35,7 +35,7 @@ Same event, same grouping pattern each "ip-dst" attribute is followed by its CID
 
 Scanned the URL list for a Roblox-lookalike domain, found a URL using a deliberately similar domain (roblox.ly instead of the real roblox.com) combined with a fake "PLS DONATE" game link:
 
-**Answer:** "https://www.roblox.ly/games/8737602449/PLS-DONATE?privateServerLinkCode=67182664163045927889367614191580"
+**Answer:** "hxxps://www.roblox.ly/games/8737602449/PLS-DONATE?privateServerLinkCode=67182664163045927889367614191580"
 
 ![Day 13-4 screenshot](./images/day13-4.png)
 
