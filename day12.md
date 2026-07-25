@@ -35,3 +35,6 @@ attachment_name: Invoice_MFG_March2024.xlsm
 ```
 
 **Answer: Invoice_MFG_March2024.xlsm**
+
+![Day 12 screenshot1](./images/day12-1.png)
+![Day 12 screenshot2](./images/day12-2.png)
