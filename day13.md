@@ -21,25 +21,26 @@ MISP groups related network attributes together in sequence, the first "ip-dst" 
 
 Same event, same grouping pattern each "ip-dst" attribute is followed by its CIDR and then its "AS" (ASN) attribute as part of the same structured object.
 
-![Day 13-1 screenshot](./images/day13-1.png)
-
 **Answer: 137718**
+
+![Day 13-1 screenshot](./images/day13-1.png)
 
 ### 3. How many IP addresses are listed in the "Feodo IP Blocklist feed" event?
 
 **Answer: 5**
+
 ![Day 13-3 screenshot](./images/day13-3.png)
 
 ### 4. Which URL in the "OpenPhish url list feed" event appears to impersonate Roblox?
 
 Scanned the URL list for a Roblox-lookalike domain, found a URL using a deliberately similar domain (roblox.ly instead of the real roblox.com) combined with a fake "PLS DONATE" game link:
 
-![Day 13-4 screenshot](./images/day13-4.png)
+**Answer:** "https://www.roblox.ly/games/8737602449/PLS-DONATE?privateServerLinkCode=67182664163045927889367614191580"
 
-**Answer:** `https://www.roblox.ly/games/8737602449/PLS-DONATE?privateServerLinkCode=67182664163045927889367614191580`
+![Day 13-4 screenshot](./images/day13-4.png)
 
 ### 5. What is the first MD5 hash listed in the "Malware Bazaar feed" event?
 
-![Day 13-5 screenshot](./images/day13-5.png)
-
 **Answer: 445145d633ac80e6149cdb46374f2f45**
+
+![Day 13-5 screenshot](./images/day13-5.png)
