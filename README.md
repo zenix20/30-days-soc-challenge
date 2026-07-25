@@ -24,4 +24,7 @@ Each day includes the scenario, the tools/log sources involved, my approach and 
 | [Day 7](./day07.md) | Splunk SPL Queries
 | [Day 8](./day08.md) | Building SIEM dashboard
 | [Day 9](./day09.md) | Wazuh SIEM Masterclass
+| [Day 10](./day010.md) | Elastic SIEM Masterclass
+| [Day 11](./day11.md) | Introduction to Phishing Analysis and Email Security
+| [Day 12](./day12.md) | Email Incident Response Masterclass
 
