@@ -27,4 +27,4 @@ Each day includes the scenario, the tools/log sources involved, my approach and 
 | [Day 10](./day010.md) | Elastic SIEM Masterclass
 | [Day 11](./day11.md) | Introduction to Phishing Analysis and Email Security
 | [Day 12](./day12.md) | Email Incident Response Masterclass
-
+| [Day 13](./day13.md) | Threat Intelligence Crash Course
