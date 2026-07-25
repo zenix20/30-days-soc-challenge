@@ -15,7 +15,7 @@ Same underlying dataset family as earlier Splunk-based days ("mumb_web01_auth"),
 
 This question ended up taking far longer than it should have, and for a reason that had nothing to do with methodology.
 
-**First attempt:** `result: "failure"` → 1786. Wrong.
+**First attempt:** result: "failure" → 1786. Wrong.
 
 **Investigated the hint** ("rejections come in more than one flavor") and confirmed there genuinely are two categories of failure event in this dataset:
 - **"Invalid user"** rejections, no "authentication_method" field populated, since the account doesn't exist and the login never reaches the credential-check stage.
