@@ -58,6 +58,3 @@ Breaking down the three standard mechanisms:
 Since DKIM was the mechanism with a direct "absent" signal (no signature ever existed, vs. DMARC which "failed" only because no policy was ever configured), it's the most precise answer for what was absent from the message itself.
 
 **Answer: DKIM**
-
-
-The social engineering pattern in the body is worth noting too, independent of the technical analysis: urgency ("before 4:00 PM"), authority impersonation (CEO), isolation instruction ("do not discuss with anyone"), and a plausible-sounding but unrelated link domain — all classic BEC (Business Email Compromise) hallmarks that would be worth flagging even without the header analysis at all.
