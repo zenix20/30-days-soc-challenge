@@ -35,7 +35,7 @@ result: "failure" AND NOT authentication_method: *
 
 Went back to the full combined count (1786) and even verified it with "result.keyword: "failure"" to rule out any text-analysis mismatch, same number both ways. Still rejected.
 
-![Day 10 q1 screenshot](./images/day10-q1.png)
+![Day 10 q1 screenshot](./images/day10-q1.jpeg)
 
 **Resolution:** after exhausting every reasonable field-based combination, I contacted the challenge creator directly. It turned out to be a genuine platform bug on their end, after a fix, the correct time range was actually 8 July to 23 July (not 22 July as originally specified), and re-running the simple query:
 ```
