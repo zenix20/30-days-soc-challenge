@@ -1,7 +1,7 @@
 # Day 14: Threat Hunting Crash Course
 
 **Topic:** Threat Hunting, endpoint artifact collection and cron persistence detection
-**Tools:** Velociraptor (Hunt Manager, `Linux.Sys.Crontab` artifact)
+**Tools:** Velociraptor (Hunt Manager, Linux.Sys.Crontab artifact)
 
 ![Day 14 screenshot placeholder](./images/day14-0.png)
 
