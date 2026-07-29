@@ -30,3 +30,4 @@ Each day includes the scenario, the tools/log sources involved, my approach and 
 | [Day 13](./day13.md) | Threat Intelligence Crash Course
 | [Day 14](./day14.md) | Threat Hunting Crash Course (Velociraptor)
 | [Day 15](./day15.md) | Introduction to Digital Forensics and Incident Response
+| [Day 16](./day16.md) | Wireshark Crash Course
