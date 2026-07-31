@@ -31,6 +31,8 @@ Results showed four classic LOLBins in play:
 
 **Answer: mshta.exe**
 
+![Day 17 screenshot placeholder](./images/day17-1.png)
+
 All four of these are well-documented living-off-the-land binaries commonly abused for payload download/execution: certutil for downloading files disguised as certificate operations, bitsadmin for background transfer jobs, regsvr32 for executing remote scriptlets, and mshta for running HTML applications that can pull and execute arbitrary script content.
 
 ### 2. Which external host appeared most frequently in the suspicious command lines?
@@ -46,6 +48,8 @@ The results mixed raw IPs and domains, some domains were clearly named to look l
 
 **Answer: 45.33.32.156** (9 occurrences)
 
+![Day 17 screenshot placeholder](./images/day17-2.png)
+
 ### 3. Which system recorded the highest number of process executions containing external URLs?
 
 ```spl
@@ -55,3 +59,5 @@ index=mumb-dc01-win-security EventID=4688 (EventData.CommandLine="*http://*" OR 
 ```
 
 **Answer: SRV-PROXY01.techcorp.local** (7 occurrences)
+
+![Day 17 screenshot placeholder](./images/day17-3.png)
