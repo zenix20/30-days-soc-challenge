@@ -28,6 +28,8 @@ index=nyc-dc01-deb-auth
 
 **Answer: sshd**
 
+![Day 18 screenshot placeholder](./images/day18-1.png)
+
 ### 2. Which server generated the highest number of authentication events?
 
 ```spl
@@ -37,6 +39,8 @@ index=nyc-dc01-deb-auth
 ```
 
 **Answer: NYC-SFTP01** (2,489 events)
+
+![Day 18 screenshot placeholder](./images/day18-2.png)
 
 ### 3. Which account was created with UID 0 and /root as its home directory?
 
@@ -51,6 +55,8 @@ new user: name=sysmaint, UID=0, GID=0, home=/root, shell=/bin/bash
 
 **Answer: sysmaint**
 
+![Day 18 screenshot placeholder](./images/day18-3.png)
+
 UID 0 is the root account's UID, any additional account created with UID 0 is functionally a second root-equivalent account, regardless of its username. Combined with a /root-style home directory and a full interactive shell (/bin/bash), this is about as textbook a privileged backdoor account as it gets: a plausible-sounding, maintenance-flavored username (sysmaint) designed to blend in during a casual /etc/passwd review, while carrying full root privileges under the hood.
 
 ### 4. On which server was the privileged backdoor account created?
@@ -58,5 +64,7 @@ UID 0 is the root account's UID, any additional account created with UID 0 is fu
 Every sysmaint account-creation event carried the same hostname value:
 
 **Answer: NYC-JMP01**
+
+![Day 18 screenshot placeholder](./images/day18-4.png)
 
 This ties directly back to Question 2, NYC-JMP01 was already the second-busiest server by raw authentication volume, and it's also where the actual backdoor account got planted, consistent with the scenario's description of the account later being used for repeated external SSH access.
