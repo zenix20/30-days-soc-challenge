@@ -33,3 +33,5 @@ Each day includes the scenario, the tools/log sources involved, my approach and 
 | [Day 16](./day16.md) | Wireshark Crash Course
 | [Day 17](./day17.md) | Windows Security Monitoring
 | [Day 18](./day18.md) | Linux Security Monitoring
+| [Day 19](./day19.md) | Network Security Monitoring
+| [Day 20](./day20.md) | Application Security Monitoring
