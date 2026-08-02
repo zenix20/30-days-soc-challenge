@@ -22,8 +22,9 @@ Every matching event carried the same source consistently:
 ```
 src_ip: 192.168.1.150
 ```
-
 **Answer: 192.168.1.150**
+
+![Day 19 screenshot placeholder](./images/day19-1.png)
 
 ### 2. Which file was associated with the BitTorrent activity?
 
@@ -34,6 +35,8 @@ file_name: Cracked_Software_Setup.exe
 
 **Answer: Cracked_Software_Setup.exe**
 
+![Day 19 screenshot placeholder](./images/day19-2.png)
+
 ### 3. Which destination port was used most frequently by the BitTorrent traffic?
 
 ```spl
@@ -42,3 +45,5 @@ index=pan1420_threat_logs app=bittorrent
 | sort -count
 ```
 **Answer: 6882**
+
+![Day 19 screenshot placeholder](./images/day19-3.png)
