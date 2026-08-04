@@ -35,3 +35,5 @@ Each day includes the scenario, the tools/log sources involved, my approach and 
 | [Day 18](./day18.md) | Linux Security Monitoring
 | [Day 19](./day19.md) | Network Security Monitoring
 | [Day 20](./day20.md) | Application Security Monitoring
+| [Day 21](./day21.md) | Vulnerability Management
+| [Day 22](./day22.md) | Introduction to Cloud Security
