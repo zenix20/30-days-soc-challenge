@@ -37,3 +37,4 @@ Each day includes the scenario, the tools/log sources involved, my approach and 
 | [Day 20](./day20.md) | Application Security Monitoring
 | [Day 21](./day21.md) | Vulnerability Management
 | [Day 22](./day22.md) | Introduction to Cloud Security
+| [Day 23](./day23.md) | Detection Engineering Crash Course
