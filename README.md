@@ -39,3 +39,4 @@ Each day includes the scenario, the tools/log sources involved, my approach and 
 | [Day 22](./day22.md) | Introduction to Cloud Security
 | [Day 23](./day23.md) | Detection Engineering Crash Course
 | [Day 24](./day24.md) | Capstone 1: Setup a honeypot
+| [Day 25](./day25.md) | Capstone 2 : Setup a pfsense firewall
