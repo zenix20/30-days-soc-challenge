@@ -40,3 +40,4 @@ Each day includes the scenario, the tools/log sources involved, my approach and 
 | [Day 23](./day23.md) | Detection Engineering Crash Course
 | [Day 24](./day24.md) | Capstone 1: Setup a honeypot
 | [Day 25](./day25.md) | Capstone 2 : Setup a pfsense firewall
+| [Day 26](./day26.md) | Capstone 3: Suricata IDS Logs Monitoring with Wazuh
